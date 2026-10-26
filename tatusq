@@ -1,0 +1,62 @@
+[33mcommit a2bdfa62aa631cf5124ffb04ef00bfa714ccb2e3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mupdate_dune[m[33m)[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 21:28:29 2026 +0530
+
+    J: Stupid Intern
+
+[33mcommit 1252d2ea384053c48aff556db7ee5376ac4b7d97[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 21:25:47 2026 +0530
+
+    I: add fear
+
+[33mcommit 782d9d7f72dcfa147e7e1fdb6c98db01351cc7f9[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 21:24:03 2026 +0530
+
+    H: add spices
+
+[33mcommit 205e02fc1763c8c2c272cc4f622c47945a559e5b[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 14:09:33 2026 +0530
+
+    G: update_titles
+
+[33mcommit 211b2b687f7694a1f05b372d938bcde5740d0d97[m
+Merge: c4c470d 27e76dd
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 14:04:50 2026 +0530
+
+    Merge branch 'add_classics'
+    
+    F: merging two branches
+
+[33mcommit c4c470dbef9a6692c13da6cfae1a42a32e42c910[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 12:20:30 2026 +0530
+
+    E: new contents
+
+[33mcommit 27e76dd118387d9333e4d6d7862913cb84f1c67e[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sun Oct 25 10:40:52 2026 +0530
+
+    D: add classics
+
+[33mcommit ae5d0c80313a6799e5b96c69de1fadaf96b00310[m[33m ([m[1;32mstatus[m[33m, [m[1;32mfeatures[m[33m)[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sat Oct 24 18:18:27 2026 +0530
+
+    C: add quotes
+
+[33mcommit 7470ff12dc4241214c8ea996042ead7ba3aa5f4f[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sat Oct 24 16:49:56 2026 +0530
+
+    B: add titles
+
+[33mcommit 852672a0ffdcaca20f34232887fa49d9cdf50b97[m
+Author: pacifician <karanubhab0@gmail.com>
+Date:   Sat Oct 24 12:19:38 2026 +0530
+
+    A: add contents.md
